@@ -12,6 +12,9 @@
         "items": [
           {
             "item": "minecraft:rotten_flesh",
+            
+          },
+          {
             "item": "minecraft:snowball"
           }
         ]
