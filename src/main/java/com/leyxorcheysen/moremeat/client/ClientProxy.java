@@ -1,6 +1,7 @@
 package com.leyxorcheysen.moremeat.client;
 
 import com.leyxorcheysen.moremeat.common.CommonProxy;
+import com.leyxorcheysen.moremeat.init.ItemsInit;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
@@ -19,6 +20,8 @@ public class ClientProxy extends CommonProxy {
     public void init(FMLInitializationEvent event) {
     	
         super.init(event);
+        
+        ItemsInit.registerRender();
         
     }
 
