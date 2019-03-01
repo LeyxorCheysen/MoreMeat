@@ -1,0 +1,18 @@
+Symbol range map extraction starting
+Processing 1 files
+startProcessing "com\leyxorcheysen\moremeat\MoreMeat.java" md5: 2bae7e632fa83e2a10bdbc25a9fc9da3
+@|com\leyxorcheysen\moremeat\MoreMeat.java|8|34|com.leyxorcheysen.moremeat|package|com.leyxorcheysen.moremeat|(file)
+Class Start: com.leyxorcheysen.moremeat.MoreMeat
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|81|84|Mod|class|net.minecraftforge.fml.common.Mod
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|85|90|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|105|109|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|125|132|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|144|156|dependencies|method|net.minecraftforge.fml.common.Mod|dependencies|()Ljava/lang/String;
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|199|210|useMetadata|method|net.minecraftforge.fml.common.Mod|useMetadata|()Z
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|219|244|acceptedMinecraftVersions|method|net.minecraftforge.fml.common.Mod|acceptedMinecraftVersions|()Ljava/lang/String;
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|259|270|modLanguage|method|net.minecraftforge.fml.common.Mod|modLanguage|()Ljava/lang/String;
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|281|291|updateJSON|method|net.minecraftforge.fml.common.Mod|updateJSON|()Ljava/lang/String;
+   @|com\leyxorcheysen\moremeat\MoreMeat.java|388|396|MoreMeat|class|com.leyxorcheysen.moremeat.MoreMeat
+Class End  : com.leyxorcheysen.moremeat.MoreMeat
+endProcessing "com\leyxorcheysen\moremeat\MoreMeat.java"
+
