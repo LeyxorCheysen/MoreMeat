@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:rotten_flesh"
+        },
+        {
+            "item": "minecraft:snowball"
+        }
+    ],
+    "result": {
+        "item": "moreflesh:raw_flesh"
+    }
+}

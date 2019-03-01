@@ -1,0 +1,26 @@
+{
+  "parent": "moreflesh:recipes/root",
+  "rewards": {
+    "recipes": [
+      "moreflesh:raw_flesh"
+    ]
+  },
+  "criteria": {
+    "has_ingredients": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:rotten_flesh",
+            "item": "minecraft:snowball"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ingredients"
+    ]
+  ]
+}
